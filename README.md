@@ -22,4 +22,5 @@ If the first column is MODIFY the the line will five columns
 4. The fifth column is the new quantity of that order.
 
 GFD order will remain on the book until it has been traded
+
 IOC order if cannot be traded immidiately, it will be cancelled right away. If it is patially traded non-traded part is cancelled. 
